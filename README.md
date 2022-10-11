@@ -1,1 +1,4 @@
-# LaharI001-LaharI001
+Hey! 
+I'm Lahari!
+
+💻Technologies:
