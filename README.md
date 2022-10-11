@@ -1,4 +1,4 @@
-Hey! 
-I'm Lahari!
+**Hey! 
+I'm Lahari!**
 
-💻Technologies:
+
